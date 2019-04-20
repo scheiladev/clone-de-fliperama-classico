@@ -16,6 +16,10 @@ OU
 
 ### Instruções para executar o jogo
 
+1. Clique aqui para jogar online: [Clone de Fliperama Clássico](https://github.com/sstihler/clone-de-fliperama-classico)
+
+OU
+
 1. Execute o arquivo `index.html` no navegador de sua preferência.
 
 OU
