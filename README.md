@@ -4,11 +4,11 @@ Projeto de HTML, CSS e JavaScript, para o ND Front End Avançado.
 
 ### Instruções para baixar o jogo
 
-1. Faça o clone deste projeto com `git clone https://github.com/sstihler/clone-de-fliperama-classico.git`.
+1. Faça o clone deste projeto com `git clone https://github.com/devscheila/clone-de-fliperama-classico.git`.
 
 OU
 
-1. Abra o navegador de sua preferência e acesse: `https://github.com/sstihler/clone-de-fliperama-classico`;
+1. Abra o navegador de sua preferência e acesse: `https://github.com/devscheila/clone-de-fliperama-classico`;
 2. Localize o botão `Clone or download` no canto superior direito da tela;
 3. Clique no botão `Clone or download` e clique na opção `Download ZIP`;
 4. Escolha a pasta onde deseja salvar o arquivo em seu computador e confirme;
@@ -16,7 +16,7 @@ OU
 
 ### Instruções para executar o jogo
 
-1. Clique aqui para jogar online: [Clone de Fliperama Clássico](https://github.com/sstihler/clone-de-fliperama-classico)
+1. Clique aqui para jogar online: [Clone de Fliperama Clássico](https://github.com/devscheila/clone-de-fliperama-classico)
 
 OU
 
